@@ -16,7 +16,7 @@
 Our textbook is *HTML and CSS* by __John Duckett__.
 ```
 
-[Visit our course to learn more](https://media-ed-online.github.io/intro-web-dev/
+[Visit our course to learn more.](https://media-ed-online.github.io/intro-web-dev/
 )
 
 ![](http://bit.ly/2DIVG46)
