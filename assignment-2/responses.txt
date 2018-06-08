@@ -1,0 +1,8 @@
+i. Data traveling on the Internet is like items traveling through the postal service. The content that travels is a bit different however.
+Instead of shipping boxes and envelopes, the Internet sends binary information. We send information through light, electricity, and radio waves.
+
+ii. An IP address is a number that is given to a computer to identify it on a given network. A DNS associates names like www.youtube.com with the corresponding addresses.
+
+iii. Cookies are small files which are stored on a a user's computer that are designed to hold a small of data specific to a particular client and can be accessed either by the web server or the client computer.
+
+iv. The three basic parts of a URL are the protocol, the domain name, and the path. 
