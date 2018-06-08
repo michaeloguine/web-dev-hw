@@ -10,10 +10,10 @@
 * The Internet is made up of a large number of independently operated networks.
 ***
 ### My Resources
-** Our textbook is *HTML and CSS* by **John Duckett**
+**Our textbook is *HTML and CSS* by __John Duckett__.**
 
 ```
-Our textbook is *HTML and CSS* by **John Duckett**
+Our textbook is *HTML and CSS* by __John Duckett__.
 ```
 
 [Visit our course to learn more](https://media-ed-online.github.io/intro-web-dev/
