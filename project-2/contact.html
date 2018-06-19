@@ -6,11 +6,32 @@
     <meta name="author" content="Michael Oguine">
     <title>My Page</title>
     <style>
-      body {background-color: white}
+      body {background-color: lightblue}
     </style>
   </head>
 
   <body>
-    <p>Content</p>
+    <div id="form" class="container">
+  <h2>What kind of pasta person are you?</h2>
+  <form action="#" method="get" id="contact">
+    <p>Red Sauce or White Sauce?
+      <br/>
+      <input type="radio" name="sauce" value="red"/>red <br/>
+      <input type="radio" name="sauce" value="white"/>white <br/>
+    </p>
+    <p>What is your favorite type of noodle?<br>
+      <input type="radio" name="noodle" value="spaghetti"/>spaghetti <br/>
+      <input type="radio" name="noodle" value="penne"/>penne <br>
+      <input type="radio" name="noodle" value="fusilli"/>fusilli <br>
+      <input type="radio" name="noodle" value="elbow macaroni"/>elbow macaroni <br>
+      <input type="radio" name="noodle" value="rigatoni">rigatoni <br>
+    </p>
+    <p>If someone offered you $5000 to never eat another pasta dish for the rest of your life, would you accept? Why or why not? Please explain in detail.</p>
+      <textarea name="pasta ultimatum" rows="20" cols="70">are you going to give up pasta or nah???</textarea>
+      <br>
+      <input type="submit" name="submit" value="submit">
+  </form>
+
+</div>
   </body>
 </html>
