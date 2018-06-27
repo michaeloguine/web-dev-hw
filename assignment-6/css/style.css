@@ -1,0 +1,32 @@
+body {
+  background-color: purple;
+  width:80%;
+  margin:auto;
+}
+html{
+background-image: url(../images/1990s-03.png);
+background-size: contain;
+}
+h1 {
+color: orange;
+}
+
+.box{
+  background-color: indigo;
+  opacity: 1 !important;
+}
+.nickelodeon{
+  width:100%;
+}
+.nickelodeon img{
+  width:80%;
+  margin: 10%;
+}
+.nickelodeon>h1{
+  color:yellow;
+  text-align: center;
+}
+p{
+  opacity: .7;
+  text-align: center;
+}
