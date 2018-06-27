@@ -1,0 +1,14 @@
+body{font-family: 'Roboto Condensed', sans-serif;
+}
+.speaking{
+margin: 30px
+}
+.speaking p:first-of-type{
+margin-left: -20px;
+font-family: 'IM Fell English SC', serif;
+}
+.title-info{
+  font-family: 'IM Fell English SC', serif;
+  letter-spacing: 1px;
+
+}

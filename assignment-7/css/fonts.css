@@ -1,0 +1,7 @@
+@font-face {
+   font-family: 'IM Fell English SC';
+   src: url('../fonts/imfeen.ttf') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
