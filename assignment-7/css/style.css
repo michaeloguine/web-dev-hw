@@ -8,7 +8,43 @@ margin-left: -20px;
 font-family: 'IM Fell English SC', serif;
 }
 .title-info{
+  color: maroon;
   font-family: 'IM Fell English SC', serif;
   letter-spacing: 1px;
+}
+.parent-element {
+    min-height: 10em;
+}
 
+.button {
+    font-size: 1.2em;
+    color: black;
+    font-weight: 20;
+    background-color: brown;
+    border-color: maroon;
+    border-width: 3px 5px 5px 3px;
+    border-style: solid;
+    position: relative;
+    margin: auto;
+    top: 1em;
+    padding: 1em;
+    width: 9em;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.button:hover {
+    color: grey;
+    font-style: italic;
+}
+
+.button:active {
+    color: black;
+    background-color: black(17, 127, 126);
+    border-color: black;
+    border-width: 5px 3px 3px 5px;
 }
